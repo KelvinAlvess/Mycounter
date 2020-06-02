@@ -1,0 +1,23 @@
+body {
+    background: rgb(147, 94, 233);
+    color: rgb(104, 12, 99) 5px 5px 5px;
+    text-align: center;
+    font: normal 30pt arial;
+    text-shadow: rgb(229, 253, 13) 5px 5px 5px;
+}
+
+p {
+    color: rgb(40, 6, 71);
+    font: 30px italic;
+    margin: auto;
+}
+
+div#res {
+    color: aliceblue;
+}
+
+h1 {
+    background: white;
+    color: blueviolet;
+    width: center 300pt;
+}
